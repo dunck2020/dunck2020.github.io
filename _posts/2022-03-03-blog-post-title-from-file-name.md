@@ -9,5 +9,5 @@ great dynamic to work with.
 # Personal Reflections:
 This sprint is still part of the planning stages so most of the work is diagrams, process
 flows and other creative design.  I find some of this work tedious but it is all
-part of software creation.  Looking forward to spring 3.
+part of software creation.  Looking forward to sprint 3.
 
